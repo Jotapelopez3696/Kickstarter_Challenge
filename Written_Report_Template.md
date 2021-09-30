@@ -41,9 +41,9 @@ June is the best month and december the worst
 
 The best is low budget campaigns or go directly to the range of 35,000 to 45,000. More than that increase the failure ratio
 - What are some limitations of this dataset?
-Quality variables that explai us some qualitative facts of the campaigs, algo more quantitative control data to increase power in our analysis.
+Quality variables that explai us some qualitative facts of the campaigs, also more quantitative control data to increase power in our analysis.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Same kinf of graphics based on the country or the deadline. Also combination of two variables in a bubble chart.
+Same kind of graphics based on the country or the deadline. Also a combination of two variables in a bubble chart.
 
